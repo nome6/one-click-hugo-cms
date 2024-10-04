@@ -6,6 +6,6 @@ description: How to get the unique code which is used to access all contents for
 ---
 > [](https://modijiurl.com/r0qILw)Here is the demo video of to get the unique code 
 
-`https://modijiurl.com/r0qILw`
+``
 
 ``<https://modijiurl.com/r0qILw>
